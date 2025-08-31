@@ -3,6 +3,7 @@ from requests.auth import HTTPBasicAuth
 import requests
 
 def auth_ui(API_URL):
+
     st.title("Baymax - AI Medical Assistant")
 
     st.subheader("Login or Sign Up")
