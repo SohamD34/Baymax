@@ -124,6 +124,6 @@ streamlit run main.py
 ```
 
 **Access Points (Dev)**
-- **Backend API**: `http://127.0.0.1:8000`
-- **Frontend UI**: `http://localhost:8501`
-- **API Documentation**: `http://127.0.0.1:8000/docs`  
+- **Backend API**: `https://baymax-gawp.onrender.com`
+- **Frontend UI**: `https://baymax-medbot.streamlit.app/`
+- **API Documentation**: `https://baymax-gawp.onrender.com/docs`  
